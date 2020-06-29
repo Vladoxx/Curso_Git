@@ -11,10 +11,10 @@
 ## Aula 02
 - Instalar o GIT- Instalar o GIT
 - Alguns comandos básicos de terminal:
-- cd
 - ls
+- cd
 - mkdir
-- Varios outros
+- Outros
 
 
 ## Aula 03
@@ -34,8 +34,8 @@
 - Entender branches (Ramificações)
 - Usando branches
 - Juntando branches:
-- com merge (fundir)
-- com rebase (reescrever)
+- Com merge (fundir)
+- Com rebase (reescrever)
 
 
 ## Aula 06
